@@ -1,6 +1,6 @@
 'use client';
 import Head from 'next/head';
-import '../styles/Home.css';
+import '../../styles/Home.css';
 import Link from 'next/link';
 
 export default function Home() {
